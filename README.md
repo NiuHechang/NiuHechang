@@ -1,4 +1,4 @@
-# Hi there, I'm Hengchang Liu 👋
+Hi there, I'm Hengchang Liu 👋
 
 I am a Undergraduate student at the **Gaoling School of Artificial Intelligence (GSAI), Renmin University of China**. My research focuses on enhancing the robustness and efficiency of generative models.
 
